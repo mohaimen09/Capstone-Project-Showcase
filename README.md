@@ -122,5 +122,4 @@ LangGraph Pipelines   Supabase PostgreSQL
 
 ## Author
 
-**Mohaimen Al Mamun**  
-**North South University**
+**Mohaimen Al Mamun** -North South University
