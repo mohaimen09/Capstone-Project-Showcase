@@ -122,5 +122,6 @@ LangGraph Pipelines   Supabase PostgreSQL
 
 ## Author
 
-**Samir Mahmud** — North South University
-[LinkedIn](https://linkedin.com/in/samir-mahmud-392179228) · [GitHub](https://github.com/samirmahmud28)
+**Mohaimen Al Mamun**  
+Department of Electrical and Computer Engineering
+North South University
