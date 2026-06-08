@@ -120,6 +120,21 @@ LangGraph Pipelines   Supabase PostgreSQL
 
 ---
 
-## Author
+## Authors
 
-**Mohaimen Al Mamun** - North South University
+- **Mohaimen Al Mamun**
+- **Samir Mahmud**
+- **Syed Tashriful Alam**
+
+**Affiliation:**  
+Department of Electrical and Computer Engineering (ECE)  
+North South University, Dhaka, Bangladesh
+
+---
+
+## Supervisor
+
+**Dr. Mohammad Ashrafuzzaman Khan**  
+Associate Professor  
+Department of Electrical and Computer Engineering (ECE)  
+North South University, Dhaka, Bangladesh
